@@ -20,3 +20,4 @@
 // To run the app use the below command
 
 >npm start
+"C:\Users\sivat\OneDrive\Pictures\Screenshots\Screenshot 2023-10-24 125346.png"
