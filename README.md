@@ -20,4 +20,5 @@
 // To run the app use the below command
 
 >npm start
-"C:\Users\sivat\OneDrive\Pictures\Screenshots\Screenshot 2023-10-24 125346.png"
+![Screenshot 2023-10-24 125346](https://github.com/reshniVisionX/Simple_tic-tac-toe-Game---React-js/assets/138602610/0b2beb15-6ef5-413f-9ec7-b474d7795af5)
+46.png"
